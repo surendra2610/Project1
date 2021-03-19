@@ -2,7 +2,7 @@
 
 Demo project
 
-NAME:surendrakanala
+Name:surendrakanala
 
 Mail ID: <kanalasurendrareddy@gmail.com>
 
