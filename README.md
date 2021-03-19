@@ -2,11 +2,11 @@
 
 Demo project
 
-Name:surendrakanala
+# Name:surendrakanala
 
-Mail ID: <kanalasurendrareddy@gmail.com>
+# Mail ID: <kanalasurendrareddy@gmail.com>
 
-Department: IT BRANCH
+# Department: IT BRANCH
 
 # RVR&JC_IT
 ## RVRJC
