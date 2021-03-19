@@ -4,7 +4,7 @@ surendrakanala
 kanalasurendrareddy@gmail.com
 IT
 # RVR&JC_IT
-## RVR
+## RVRJC
 ### Y19IT051
 #### IT
 ##### 
